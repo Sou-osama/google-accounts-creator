@@ -2,7 +2,7 @@
 Google accounts creator is the application (bot) for unlimited automatic registration Google accounts (Youtube, Gmail).
 During fake multiple account registration, Google checks the user’s browser for authenticity and signs of a robot. The script emulates a regular browser as much as possible in order to bypass Google’s protection.
 
-More info: [https://youtube-booster.space/en/google-accounts-creator/](https://youtube-booster.space/google-accounts-creator/)
+More info: https://youtube-booster.space/google-accounts-creator/
 
 # Features
  - Unlimited registration (the script is not limited in any way).
@@ -30,4 +30,4 @@ More info: [https://youtube-booster.space/en/google-accounts-creator/](https://y
  - On high-quality proxies, you can create without SMS confirmation up to 80-90% of accounts.
  - And the most important thing is the cost. Savings can be up to 50-60%.
 
-More info: [https://youtube-booster.space/en/google-accounts-creator/](https://youtube-booster.space/google-accounts-creator/)https://youtube-booster.space/google-accounts-creator/
+More info: https://youtube-booster.space/google-accounts-creator/
